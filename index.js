@@ -1,1 +1,2 @@
-let a = "apple"
+let a = "#apple"
+let b = "#google"
